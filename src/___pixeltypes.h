@@ -1,8 +1,9 @@
 
+#pragma once
+
 #ifdef USE_FASTLED
     #include "FastLED.h"
 #endif
-#include "Arduino.h"
 
 #define _OUT_OF_BOUND -12
 
